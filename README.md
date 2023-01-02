@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ezike Ebuka</h1>
-<h3 align="center">A passionate about OpenSource, Linux,</h3>
+<h3 align="center">I am passionate about OpenSource, Linux,</h3>
 
 - 💬 Ask me about **Linux, QT, GTK, GDB**
 
