@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **Linux, QT, GTK, GDB**
 
-- 📫 How to reach me **yerimyah1@gmail.com**
-
 - ⚡ Fun fact **If you close your eyes, you will see nothing :)**
 
 <h3 align="left">Connect with me:</h3>
